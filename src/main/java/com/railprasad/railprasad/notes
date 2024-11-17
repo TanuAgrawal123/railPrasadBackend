@@ -1,0 +1,10 @@
+without login one can add station.
+change contactform files variables from feedback to contact.
+
+
+1.when customer/provider login then return its customerid/providerid
+2.make apis to return customer/provider for given id
+3.in station provider add column status=pending by default
+4.make api to change status to verified
+5.api to return list of verified stationproviders
+
