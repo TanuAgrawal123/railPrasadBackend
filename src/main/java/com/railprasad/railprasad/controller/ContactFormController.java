@@ -15,6 +15,7 @@ import com.railprasad.railprasad.service.ContactFormService;
 
 @RestController
 @RequestMapping("contactform")
+@CrossOrigin
 public class ContactFormController {
 
     @Autowired

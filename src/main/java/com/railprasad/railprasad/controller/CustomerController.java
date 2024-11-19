@@ -8,6 +8,7 @@ import com.railprasad.railprasad.service.CustomerService;
 
 @RestController
 @RequestMapping("/customer")
+@CrossOrigin
 public class CustomerController {
 
     @Autowired
